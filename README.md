@@ -16,4 +16,4 @@ My goal is to build impactful solutions using modern technologies and contribute
 ### Goals
 - Develop Web3 projects
 - Contribute to open-source initiatives
-- Continuously expand my knowledge and 
+- Continuously expand my knowledge  
