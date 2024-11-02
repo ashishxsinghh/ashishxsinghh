@@ -10,8 +10,7 @@ My goal is to build impactful solutions using modern technologies and contribute
 - **Tools:** Visual Studio Code, Git, GitHub
 
 ### Currently Learning
-- Full-Stack Development
-- Blockchain & Web3
+- Python
 
 ### Goals
 - Develop Web3 projects
