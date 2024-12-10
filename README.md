@@ -1,7 +1,6 @@
 # Hello, I'm Ashish Kumar Singh 👋  
 
-I'm a **Web3 Developer** and **Tech Enthusiast** with a passion for building impactful web applications. I thrive on learning new technologies and solving real-world problems through code. My journey is fueled by creativity, determination, and the dream of making a difference in the tech world.  
-
+I'm a fullstack developer with a passion for building impactful web applications. I thrive on learning new technologies and solving real-world problems through code. 
 Apart from coding, I enjoy exploring fitness, photography, and the fine balance between minimalism and functionality.  
 
 ---
