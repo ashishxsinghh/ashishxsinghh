@@ -1,31 +1,38 @@
-## Hi there 👋
+# Hello, I'm Ashish Kumar Singh 👋  
 
-<br clear="both">
+I'm a **Web3 Developer** and **Tech Enthusiast** with a passion for building impactful web applications. I thrive on learning new technologies and solving real-world problems through code. My journey is fueled by creativity, determination, and the dream of making a difference in the tech world.  
 
-<h2 align="left">Hi my name is Ashish Kumar Singh, I love building stuffs.</h2>
+Apart from coding, I enjoy exploring fitness, photography, and the fine balance between minimalism and functionality.  
 
-###
+---
 
-<img align="right" height="150" src="https://i.pinimg.com/736x/25/5f/65/255f65c7b9971b3a78485c63ea9bcb26.jpg"/>
+## 🛠️ Technologies & Tools  
 
-###
+- **Programming Languages**: Python, JavaScript, HTML, CSS 
+- **Backend Development**: Learning Node.js for advanced APIs  
+- **Version Control**: Git, GitHub  
+- **Tools**: VS Code
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-</div>
+---
 
-###
+## 👨🏻‍💻 Current Learning Goals  
 
-<div align="left">
-</div>
+- Improve Python Programming Skills  
+- Enhance English Communication and Public Speaking Skills  
 
-###
+---
+
+## 🧑🏻‍🎨 When I'm Not Coding  
+
+- **Fitness**: Hitting the gym to stay healthy and strong.  
+- **Photography**: Capturing moments and exploring cinematography.  
+- **Motivation**: Writing and sharing short articles to inspire positivity.  
+
+---
+
+## 🐶 Let’s Connect  
+
+I'm always excited to connect with like-minded people to discuss projects, ideas, or collaborations. I'm open to freelance opportunities and eager to learn and grow with the community.  
+
+📧 Email: [ashishxsinghhh@gmail.com]  
+🐦 Twitter: [(https://x.com/ashishxsinghh)]  
