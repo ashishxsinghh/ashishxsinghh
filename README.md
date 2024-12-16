@@ -7,7 +7,7 @@ Apart from coding, I enjoy exploring fitness, photography, and the fine balance 
 
 ## 🛠️ Technologies & Tools  
 
-- **Programming Languages**: Python, JavaScript, HTML, CSS 
+- **Programming Languages**: Python
 - **Backend Development**: Learning Node.js for advanced APIs  
 - **Version Control**: Git, GitHub  
 - **Tools**: VS Code
