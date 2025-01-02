@@ -16,12 +16,13 @@ Apart from coding, I enjoy exploring fitness, photography, and the fine balance 
 
 ## 👨🏻‍💻 Current Learning Goals  
 
-- Improve Python Programming Skills  
+- Improve Python Programming Skills
+- Master fullstack development
 - Enhance English Communication and Public Speaking Skills  
 
 ---
 
-## 🧑🏻‍🎨 When I'm Not Coding  
+## 🧑🏻‍🎨 Things i like to do when i'm not coding
 
 - **Fitness**: Hitting the gym to stay healthy and strong.  
 - **Photography**: Capturing moments and exploring cinematography.  
